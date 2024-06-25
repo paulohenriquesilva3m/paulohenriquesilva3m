@@ -7,3 +7,5 @@
 
 - 📫 Como entrar em contato comigo **paulohenriquesilva@gmail.com**
 
+- 🔭 Aluno de Analítica de Dados pela escola DNC.
+
