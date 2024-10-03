@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Paulo Henrique</h1>
 <h3 align="center">Fascinado por análise de dados!!</h3>
 
-- 🌱 Atualmente estou aprendendo **Phyton, SQL.**
+- 🌱 Possuo habilidades nas linguagens **Phyton, SQL.**
 
 - 💬 Experiente com as ferramentas de **Excel e Power BI.**
 
