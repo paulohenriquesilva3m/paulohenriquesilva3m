@@ -85,7 +85,6 @@ Ao longo da minha trajetória participei de projetos que conectam dados, tecnolo
 - ETL
 - Dashboards e KPIs
 - Governança de Dados
-- Planejamento Operacional
 
 ---
 
